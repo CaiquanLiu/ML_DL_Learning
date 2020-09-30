@@ -9,6 +9,7 @@
 **视频：**<br/>
 * [《吴恩达Coursera课程-机器学习》](https://github.com/CaiquanLiu/ML_DL_Learning/blob/master/%E5%90%B4%E6%81%A9%E8%BE%BECoursera%E8%AF%BE%E7%A8%8B-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.md)
 * [《Machine Learning (2017,Spring)》：李宏毅](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17.html)
+* [《白板机器学习》](https://github.com/CaiquanLiu/ML_DL_Learning/blob/master/%E7%99%BD%E6%9D%BF%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.md)
 
 **图书：**<br/>
 * [《机器学习》：周志华](https://book.douban.com/subject/26708119/)
