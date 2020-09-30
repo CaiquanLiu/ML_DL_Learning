@@ -6,16 +6,19 @@
 * [《可汗学院公开课-统计学》](https://github.com/CaiquanLiu/ML_DL_Learning/blob/master/%E5%8F%AF%E6%B1%97%E5%AD%A6%E9%99%A2%E5%85%AC%E5%BC%80%E8%AF%BE-%E7%BB%9F%E8%AE%A1%E5%AD%A6.md)
 # 2 机器学习/深度学习
 ## 2.1 机器学习
+**视频：**<br/>
+* [《吴恩达Coursera课程-机器学习》](https://github.com/CaiquanLiu/ML_DL_Learning/blob/master/%E5%90%B4%E6%81%A9%E8%BE%BECoursera%E8%AF%BE%E7%A8%8B-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.md)
+* [《Machine Learning (2017,Spring)》：李宏毅](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17.html)
+
 **图书：**<br/>
 * [《机器学习》：周志华](https://book.douban.com/subject/26708119/)
 * [《统计学习方法（第2版）》：李航](https://book.douban.com/subject/33437381/)
 * [《人工智能简史》：尼克](https://book.douban.com/subject/27193496/)
 * [《百面机器学习》：诸葛越](https://book.douban.com/subject/30285146/)
 
-**视频：**<br/>
-* [《Machine Learning (2017,Spring)》：李宏毅](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17.html)
 ## 2.2 深度学习
 **视频：**<br/>
+* [《吴恩达Coursera课程-深度学习》](https://github.com/CaiquanLiu/ML_DL_Learning/blob/master/%E5%90%B4%E6%81%A9%E8%BE%BECoursera%E8%AF%BE%E7%A8%8B-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.md)
 * [《Machine Learning and having it deep and structured (2018,Spring)》：李宏毅](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html)
 * [《Machine Learning (2019,Spring)》：李宏毅（新增）](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html)
 
