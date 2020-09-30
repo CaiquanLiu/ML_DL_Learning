@@ -1,6 +1,9 @@
 **课程地址：**<br/>
-https://mooc.study.163.com/smartSpec/detail/1001319001.htm <br/>
-
+https://www.bilibili.com/video/BV164411m79z?from=search&seid=3072377659384001779 <br/>
+https://www.bilibili.com/video/BV1V441127zE?from=search&seid=3072377659384001779 <br/>
+https://www.bilibili.com/video/BV1f4411C7Nx?from=search&seid=3072377659384001779 <br/>
+https://www.bilibili.com/video/BV1F4411y7o7?from=search&seid=3072377659384001779 <br/>
+https://www.bilibili.com/video/BV1F4411y7BA?from=search&seid=3072377659384001779 <br/>
 
 # （一）《神经网络和深度学习》（4周）
 
