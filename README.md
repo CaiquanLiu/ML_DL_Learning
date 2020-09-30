@@ -11,13 +11,24 @@
 * [《统计学习方法（第2版）》：李航](https://book.douban.com/subject/33437381/)
 * [《人工智能简史》：尼克](https://book.douban.com/subject/27193496/)
 * [《百面机器学习》：诸葛越](https://book.douban.com/subject/30285146/)
+
+**视频：**<br/>
+* [《Machine Learning (2017,Spring)》：李宏毅](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17.html)
 ## 2.2 深度学习
+**视频：**<br/>
+* [《Machine Learning and having it deep and structured (2018,Spring)》：李宏毅](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html)
+* [《Machine Learning (2019,Spring)》：李宏毅（新增）](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html)
+
 **图书：**<br/>
 * [《深度学习》：花书](https://book.douban.com/subject/27087503/)
 * [《百面深度学习》：诸葛越 ](https://book.douban.com/subject/35043939/)
+* []()
 
 # 3 应用领域
 ## 3.1 自然语言处理
+**视频：**<br/>
+* [《Deep Learning for Human Language Processing (2020,Spring)》：李宏毅](http://speech.ee.ntu.edu.tw/~tlkagk/courses_DLHLP20.html)
+
 **图书：**<br/>
 * [《统计自然语言处理（第2版）》：宗成庆](https://book.douban.com/subject/25746399/)
 * [《自然语言处理入门》：何晗](https://book.douban.com/subject/34856701/)
@@ -29,10 +40,9 @@
 ## 3.4 信息流(推荐/广告/搜索)
 **图书：**<br/>
 * [《深度学习推荐系统》：王喆](https://book.douban.com/subject/35013197/)
-* [《进军硅谷》：陈东锋](https://book.douban.com/subject/25844586/)
 
 # 4 工程化落地
 * [《流畅的Python》：Luciano Ramalho](https://book.douban.com/subject/27028517/)
-
+* [《进军硅谷》：陈东锋](https://book.douban.com/subject/25844586/)
 
 # 5 行业价值
