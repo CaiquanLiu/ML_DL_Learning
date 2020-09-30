@@ -48,5 +48,6 @@
 # 4 工程化落地
 * [《流畅的Python》：Luciano Ramalho](https://book.douban.com/subject/27028517/)
 * [《进军硅谷》：陈东锋](https://book.douban.com/subject/25844586/)
+* [《简单粗暴 TensorFlow 2》](https://tf.wiki/zh_hans/)
 
 # 5 行业价值
