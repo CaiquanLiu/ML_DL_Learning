@@ -26,7 +26,7 @@
 **图书：**<br/>
 * [《深度学习》：花书](https://book.douban.com/subject/27087503/)
 * [《百面深度学习》：诸葛越 ](https://book.douban.com/subject/35043939/)
-* []()
+* [《深入浅出图神经网络：GNN原理解析》：刘忠雨](https://book.douban.com/subject/34927262/)
 
 # 3 应用领域
 ## 3.1 自然语言处理
@@ -43,6 +43,7 @@
 ## 3.3 智能语音
 ## 3.4 信息流(推荐/广告/搜索)
 **图书：**<br/>
+* [《推荐系统实践》：项亮](https://book.douban.com/subject/10769749/)
 * [《深度学习推荐系统》：王喆](https://book.douban.com/subject/35013197/)
 
 # 4 工程化落地
