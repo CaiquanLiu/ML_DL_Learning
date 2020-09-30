@@ -5,13 +5,17 @@
 * [《可汗学院公开课-统计学》](https://github.com/CaiquanLiu/ML_DL_Learning/blob/master/%E5%8F%AF%E6%B1%97%E5%AD%A6%E9%99%A2%E5%85%AC%E5%BC%80%E8%AF%BE-%E7%BB%9F%E8%AE%A1%E5%AD%A6.md)
 # 2 机器学习/深度学习
 ## 2.1 机器学习
-* []()
-* []()
+* [《机器学习》：周志华](https://book.douban.com/subject/26708119/)
+* [《统计学习方法（第2版）》：李航](https://book.douban.com/subject/33437381/)
 ## 2.2 深度学习
-* []()
+* [《深度学习》：花书](https://book.douban.com/subject/27087503/)
 
 # 3 应用领域
 ## 3.1 自然语言处理
+* [《统计自然语言处理（第2版）》：宗成庆](https://book.douban.com/subject/25746399/)
+* [《自然语言处理入门》：何晗](https://book.douban.com/subject/34856701/)
+* []()
+* []()
 ## 3.2 计算机视觉
 ## 3.3 智能语音
 ## 3.4 信息流(推荐/广告/搜索)
