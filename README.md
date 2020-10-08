@@ -38,13 +38,15 @@
 * [《自然语言处理入门》：何晗](https://book.douban.com/subject/34856701/)
 * [《智能问答》：段楠/周明](https://book.douban.com/subject/30324947/)
 * [《机器翻译》：李沐](https://book.douban.com/subject/30441528/)
-* []()
+* [《知识图谱》：赵军](https://book.douban.com/subject/30423376/)
 ## 3.2 计算机视觉
 ## 3.3 智能语音
 ## 3.4 信息流(推荐/广告/搜索)
 **图书：**<br/>
+* [《这就是搜索引擎》：张俊林](https://book.douban.com/subject/7006719/)
 * [《推荐系统实践》：项亮](https://book.douban.com/subject/10769749/)
 * [《深度学习推荐系统》：王喆](https://book.douban.com/subject/35013197/)
+* [《计算广告 第2版》：刘鹏/王超](https://book.douban.com/subject/34804492/)
 
 # 4 工程化落地
 * [《流畅的Python》：Luciano Ramalho](https://book.douban.com/subject/27028517/)
