@@ -1,9 +1,13 @@
 # 1 数学基础
+## 1.1 数学基础
 **视频：**<br/>
 * [《麻省理工学院公开课-单变量微积分》](https://github.com/CaiquanLiu/ML_DL_Learning/blob/master/%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E5%AD%A6%E9%99%A2%E5%85%AC%E5%BC%80%E8%AF%BE-%E5%8D%95%E5%8F%98%E9%87%8F%E5%BE%AE%E7%A7%AF%E5%88%86.md)
 * [《麻省理工公开课-线性代数》](https://github.com/CaiquanLiu/ML_DL_Learning/blob/master/%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E5%85%AC%E5%BC%80%E8%AF%BE-%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0.md)
 * [《可汗学院公开课-概率》](https://github.com/CaiquanLiu/ML_DL_Learning/blob/master/%E5%8F%AF%E6%B1%97%E5%AD%A6%E9%99%A2%E5%85%AC%E5%BC%80%E8%AF%BE-%E6%A6%82%E7%8E%87.md)
 * [《可汗学院公开课-统计学》](https://github.com/CaiquanLiu/ML_DL_Learning/blob/master/%E5%8F%AF%E6%B1%97%E5%AD%A6%E9%99%A2%E5%85%AC%E5%BC%80%E8%AF%BE-%E7%BB%9F%E8%AE%A1%E5%AD%A6.md)
+
+## 1.2 其他
+* [《古今数学思想》：莫里斯.克莱因](https://book.douban.com/subject/25809761/)
 # 2 机器学习/深度学习
 ## 2.1 机器学习
 **视频：**<br/>
@@ -27,6 +31,9 @@
 * [《深度学习》：花书](https://book.douban.com/subject/27087503/)
 * [《百面深度学习》：诸葛越 ](https://book.douban.com/subject/35043939/)
 * [《深入浅出图神经网络：GNN原理解析》：刘忠雨](https://book.douban.com/subject/34927262/)
+
+## 2.3 其他
+* [《为什么》：朱迪亚·珀尔](https://book.douban.com/subject/33438811/)
 
 # 3 应用领域
 ## 3.1 自然语言处理
