@@ -48,7 +48,7 @@
 * [《知识图谱》：赵军](https://book.douban.com/subject/30423376/)
 ## 3.2 计算机视觉
 ## 3.3 智能语音
-## 3.4 信息流(推荐/广告/搜索)
+## 3.4 推荐/广告/搜索
 **图书：**<br/>
 * [《这就是搜索引擎》：张俊林](https://book.douban.com/subject/7006719/)
 * [《推荐系统实践》：项亮](https://book.douban.com/subject/10769749/)
