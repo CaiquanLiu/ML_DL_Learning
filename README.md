@@ -26,6 +26,7 @@
 * [《吴恩达Coursera课程-深度学习》](https://github.com/CaiquanLiu/ML_DL_Learning/blob/master/%E5%90%B4%E6%81%A9%E8%BE%BECoursera%E8%AF%BE%E7%A8%8B-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.md)
 * [《Machine Learning and having it deep and structured (2018,Spring)》：李宏毅](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html)
 * [《Machine Learning (2019,Spring)》：李宏毅（新增）](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html)
+* [《机器学习》：徐亦达](https://github.com/CaiquanLiu/ML_DL_Learning/blob/master/%E5%BE%90%E4%BA%A6%E8%BE%BE%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%AF%BE%E7%A8%8B.md)
 * [《强化学习纲要》：周博磊](https://space.bilibili.com/511221970/channel/detail?cid=105354)
 * [《因果推断入门课程》：饺子博士and饭老师](https://space.bilibili.com/491707363/channel/detail?cid=98974)
 
