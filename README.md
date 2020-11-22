@@ -34,7 +34,7 @@
 * [《深度学习》：花书](https://book.douban.com/subject/27087503/)
 * [《百面深度学习》：诸葛越 ](https://book.douban.com/subject/35043939/)
 * [《深入浅出图神经网络：GNN原理解析》：刘忠雨](https://book.douban.com/subject/34927262/)
-* [《强化学习（第二版）》：ichard S. Sutton（理查德·桑顿）](https://book.douban.com/subject/34809689/)
+* [《强化学习（第二版）》：Richard S. Sutton（理查德·桑顿）](https://book.douban.com/subject/34809689/)
 
 ## 2.3 其他
 * [《为什么》：朱迪亚·珀尔](https://book.douban.com/subject/33438811/)
