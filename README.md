@@ -31,21 +31,26 @@
 **图书：**<br/>
 * [《深度学习》：花书](https://book.douban.com/subject/27087503/)
 * [《百面深度学习》：诸葛越 ](https://book.douban.com/subject/35043939/)
-* [《深入浅出图神经网络：GNN原理解析》：刘忠雨](https://book.douban.com/subject/34927262/)
-* [《强化学习（第二版）》：Richard S. Sutton（理查德·桑顿）](https://book.douban.com/subject/34809689/)
 
 ## 2.3 强化学习
 **视频：**<br/>
 * [《强化学习纲要》：周博磊](https://github.com/CaiquanLiu/ML_DL_Learning/blob/master/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E7%BA%B2%E8%A6%81_%E5%91%A8%E5%8D%9A%E7%A3%8A.md)
 
-## 2.4 因果推断
+**图书：**<br/>
+* [《强化学习（第二版）》：Richard S. Sutton（理查德·桑顿）](https://book.douban.com/subject/34809689/)
+
+## 2.4 图网络
+**图书：**<br/>
+* [《深入浅出图神经网络：GNN原理解析》：刘忠雨](https://book.douban.com/subject/34927262/)
+
+## 2.5 因果推断
 **视频：**<br/>
 * [《因果推断入门课程》：饺子博士and饭老师](https://github.com/CaiquanLiu/ML_DL_Learning/blob/master/%E5%9B%A0%E6%9E%9C%E6%8E%A8%E6%96%AD%E5%85%A5%E9%97%A8%E8%AF%BE%E7%A8%8B_%E9%A5%BA%E5%AD%90%E5%8D%9A%E5%A3%ABand%E9%A5%AD%E8%80%81%E5%B8%88.md)
 
 **图书：**<br/>
 * [《为什么》：朱迪亚·珀尔](https://book.douban.com/subject/33438811/)
 
-## 2.5 其他
+## 2.6 其他
 
 
 # 3 应用领域
