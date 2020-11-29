@@ -7,6 +7,7 @@
 * [《可汗学院公开课-统计学》](https://github.com/CaiquanLiu/ML_DL_Learning/blob/master/%E5%8F%AF%E6%B1%97%E5%AD%A6%E9%99%A2%E5%85%AC%E5%BC%80%E8%AF%BE-%E7%BB%9F%E8%AE%A1%E5%AD%A6.md)
 
 ## 1.2 其他
+**图书：**<br/>
 * [《古今数学思想》：莫里斯.克莱因](https://book.douban.com/subject/25809761/)
 # 2 机器学习/深度学习
 ## 2.1 机器学习
@@ -19,7 +20,6 @@
 **图书：**<br/>
 * [《机器学习》：周志华](https://book.douban.com/subject/26708119/)
 * [《统计学习方法（第2版）》：李航](https://book.douban.com/subject/33437381/)
-* [《人工智能简史》：尼克](https://book.douban.com/subject/27193496/)
 * [《百面机器学习》：诸葛越](https://book.douban.com/subject/30285146/)
 
 ## 2.2 深度学习
@@ -27,8 +27,6 @@
 * [《吴恩达Coursera课程-深度学习》](https://github.com/CaiquanLiu/ML_DL_Learning/blob/master/%E5%90%B4%E6%81%A9%E8%BE%BECoursera%E8%AF%BE%E7%A8%8B-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.md)
 * [《Machine Learning and having it deep and structured (2018,Spring)》：李宏毅](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html)
 * [《Machine Learning (2019,Spring)》：李宏毅（新增）](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html)
-* [《强化学习纲要》：周博磊](https://github.com/CaiquanLiu/ML_DL_Learning/blob/master/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E7%BA%B2%E8%A6%81_%E5%91%A8%E5%8D%9A%E7%A3%8A.md)
-* [《因果推断入门课程》：饺子博士and饭老师](https://github.com/CaiquanLiu/ML_DL_Learning/blob/master/%E5%9B%A0%E6%9E%9C%E6%8E%A8%E6%96%AD%E5%85%A5%E9%97%A8%E8%AF%BE%E7%A8%8B_%E9%A5%BA%E5%AD%90%E5%8D%9A%E5%A3%ABand%E9%A5%AD%E8%80%81%E5%B8%88.md)
 
 **图书：**<br/>
 * [《深度学习》：花书](https://book.douban.com/subject/27087503/)
@@ -36,8 +34,19 @@
 * [《深入浅出图神经网络：GNN原理解析》：刘忠雨](https://book.douban.com/subject/34927262/)
 * [《强化学习（第二版）》：Richard S. Sutton（理查德·桑顿）](https://book.douban.com/subject/34809689/)
 
-## 2.3 其他
+## 2.3 强化学习
+**视频：**<br/>
+* [《强化学习纲要》：周博磊](https://github.com/CaiquanLiu/ML_DL_Learning/blob/master/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E7%BA%B2%E8%A6%81_%E5%91%A8%E5%8D%9A%E7%A3%8A.md)
+
+## 2.4 因果推断
+**视频：**<br/>
+* [《因果推断入门课程》：饺子博士and饭老师](https://github.com/CaiquanLiu/ML_DL_Learning/blob/master/%E5%9B%A0%E6%9E%9C%E6%8E%A8%E6%96%AD%E5%85%A5%E9%97%A8%E8%AF%BE%E7%A8%8B_%E9%A5%BA%E5%AD%90%E5%8D%9A%E5%A3%ABand%E9%A5%AD%E8%80%81%E5%B8%88.md)
+
+**图书：**<br/>
 * [《为什么》：朱迪亚·珀尔](https://book.douban.com/subject/33438811/)
+
+## 2.5 其他
+
 
 # 3 应用领域
 ## 3.1 自然语言处理
@@ -60,8 +69,13 @@
 * [《计算广告 第2版》：刘鹏/王超](https://book.douban.com/subject/34804492/)
 
 # 4 工程化落地
+**图书：**<br/>
 * [《流畅的Python》：Luciano Ramalho](https://book.douban.com/subject/27028517/)
 * [《进军硅谷》：陈东锋](https://book.douban.com/subject/25844586/)
 * [《简单粗暴 TensorFlow 2》](https://tf.wiki/zh_hans/)
 
 # 5 行业价值
+
+# 6 其他
+**图书：**<br/>
+* [《人工智能简史》：尼克](https://book.douban.com/subject/27193496/)
