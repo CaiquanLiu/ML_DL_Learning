@@ -5,6 +5,7 @@
 * [《麻省理工公开课-线性代数》](https://github.com/CaiquanLiu/ML_DL_Learning/blob/master/%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E5%85%AC%E5%BC%80%E8%AF%BE-%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0.md)
 * [《可汗学院公开课-概率》](https://github.com/CaiquanLiu/ML_DL_Learning/blob/master/%E5%8F%AF%E6%B1%97%E5%AD%A6%E9%99%A2%E5%85%AC%E5%BC%80%E8%AF%BE-%E6%A6%82%E7%8E%87.md)
 * [《可汗学院公开课-统计学》](https://github.com/CaiquanLiu/ML_DL_Learning/blob/master/%E5%8F%AF%E6%B1%97%E5%AD%A6%E9%99%A2%E5%85%AC%E5%BC%80%E8%AF%BE-%E7%BB%9F%E8%AE%A1%E5%AD%A6.md)
+* [《凸优化》：许志钦]()
 
 ## 1.2 其他
 **图书：**<br/>
