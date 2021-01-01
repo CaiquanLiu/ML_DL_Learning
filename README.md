@@ -67,6 +67,9 @@
 * [《知识图谱》：赵军](https://book.douban.com/subject/30423376/)
 ## 3.2 计算机视觉
 ## 3.3 智能语音
+**视频：**<br/>
+* [《Deep Learning for Human Language Processing (2020,Spring)》：李宏毅](http://speech.ee.ntu.edu.tw/~tlkagk/courses_DLHLP20.html)
+
 ## 3.4 推荐/广告/搜索
 **图书：**<br/>
 * [《这就是搜索引擎》：张俊林](https://book.douban.com/subject/7006719/)
