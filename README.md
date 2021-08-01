@@ -66,6 +66,7 @@
 * [《机器翻译》：李沐](https://book.douban.com/subject/30441528/)
 * [《知识图谱》：赵军](https://book.douban.com/subject/30423376/)
 ## 3.2 计算机视觉
+* [《卷积神经网络与计算机视觉》](https://book.douban.com/subject/33416217/)
 ## 3.3 智能语音
 **视频：**<br/>
 * [《Deep Learning for Human Language Processing (2020,Spring)》：李宏毅](http://speech.ee.ntu.edu.tw/~tlkagk/courses_DLHLP20.html)
@@ -76,12 +77,14 @@
 * [《推荐系统实践》：项亮](https://book.douban.com/subject/10769749/)
 * [《深度学习推荐系统》：王喆](https://book.douban.com/subject/35013197/)
 * [《计算广告 第2版》：刘鹏/王超](https://book.douban.com/subject/34804492/)
+* [《内容算法》](https://book.douban.com/subject/30199061/)
 
 # 4 工程化落地
 **图书：**<br/>
 * [《流畅的Python》：Luciano Ramalho](https://book.douban.com/subject/27028517/)
 * [《进军硅谷》：陈东锋](https://book.douban.com/subject/25844586/)
 * [《简单粗暴 TensorFlow 2》](https://tf.wiki/zh_hans/)
+* [《深入浅出PyTorch――从模型到源码》](https://book.douban.com/subject/35025505/)
 
 # 5 行业价值
 
