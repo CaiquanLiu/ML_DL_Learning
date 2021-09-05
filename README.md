@@ -106,3 +106,4 @@
 # 6 其他
 **图书：**<br/>
 * [《人工智能简史》：尼克](https://book.douban.com/subject/27193496/)
+* [《科学之路》：[法] 杨立昆](https://book.douban.com/subject/35560368/)
