@@ -79,6 +79,16 @@
 * [《计算广告 第2版》：刘鹏/王超](https://book.douban.com/subject/34804492/)
 * [《内容算法》](https://book.douban.com/subject/30199061/)
 
+## 3.5 无人车/机器人
+**图书：**<br/>
+* [《视觉SLAM十四讲：从理论到实践（第2版）》：高翔/张涛/等](https://book.douban.com/subject/34782244/)
+* [《第一本无人驾驶技术书（第2版）》：刘少山等](https://book.douban.com/subject/34825134/)
+* [《计算机视觉中的多视图几何（原书第2版）》： 【澳】理查德·哈特利（Richard Hartley）【英】安德鲁](https://book.douban.com/subject/34907523/)
+
+## 3.6 AR/VR
+**图书：**<br/>
+* []()
+
 # 4 工程化落地
 **图书：**<br/>
 * [《流畅的Python》：Luciano Ramalho](https://book.douban.com/subject/27028517/)
