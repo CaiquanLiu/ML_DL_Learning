@@ -84,7 +84,13 @@
 **图书：**<br/>
 * [《卷积神经网络与计算机视觉》](https://book.douban.com/subject/33416217/)
 
+**视频：**<br/>
+* []()
+
 ## 3.3 智能语音
+**图书：**<br/>
+* []()
+
 **视频：**<br/>
 * [《Deep Learning for Human Language Processing (2020,Spring)》：李宏毅](http://speech.ee.ntu.edu.tw/~tlkagk/courses_DLHLP20.html)
 
