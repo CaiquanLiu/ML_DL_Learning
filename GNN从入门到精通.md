@@ -1,18 +1,18 @@
 https://www.bilibili.com/video/BV1K5411H7EQ?from=search&seid=12144845835826201746
-
-目录：
-《P1 1.1 图基本知识》
-《P2 1.2 图基本知识代码》
-《P3 2.1 DeepWalk》
-《P4 2.2 LINE》
-《P5 2.3 Node2vec》
-《P6 2.4 Struc2vec》
-《P7 2.5 SDNE》
-《P8 2.6 代码》
-《P9 3.1 GCN》
-《P10 3.2 GraphSAGE》
-《P11 3.3 GraphSAGE minbatch》
-《P12 3.4 GraphSAGE embedding》
+<br/>
+目录：<br/>
+《P1 1.1 图基本知识》<br/>
+《P2 1.2 图基本知识代码》<br/>
+《P3 2.1 DeepWalk》<br/>
+《P4 2.2 LINE》<br/>
+《P5 2.3 Node2vec》<br/>
+《P6 2.4 Struc2vec》<br/>
+《P7 2.5 SDNE》<br/>
+《P8 2.6 代码》<br/>
+《P9 3.1 GCN》<br/>
+《P10 3.2 GraphSAGE》<br/>
+《P11 3.3 GraphSAGE minbatch》<br/>
+《P12 3.4 GraphSAGE embedding》<br/>
 《P13 3.5 GAT》
 《P14 4.1 GCN 代码》
 《P15 4.2 GAT 代码》
