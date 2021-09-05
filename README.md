@@ -79,7 +79,8 @@
 
 **视频：**<br/>
 * [《Deep Learning for Human Language Processing (2020,Spring)》：李宏毅](http://speech.ee.ntu.edu.tw/~tlkagk/courses_DLHLP20.html)
-* [斯坦福CS224n：Chris Manning &amp; Richard Socher](https://github.com/CaiquanLiu/ML_DL_Learning/blob/master/%E6%96%AF%E5%9D%A6%E7%A6%8FCS224n-2017.md)
+* [《斯坦福CS224n》：Chris Manning &amp; Richard Socher](https://github.com/CaiquanLiu/ML_DL_Learning/blob/master/%E6%96%AF%E5%9D%A6%E7%A6%8FCS224n-2017.md)
+* [《NaturalLanguageProcessing-经典》：Dan Jurafsky, Christopher Manning](https://github.com/CaiquanLiu/ML_DL_Learning/blob/master/NaturalLanguageProcessing-%E7%BB%8F%E5%85%B8.md)
 
 ## 3.2 计算机视觉
 **图书：**<br/>
