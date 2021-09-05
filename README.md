@@ -69,7 +69,9 @@
 * [《机器翻译》：李沐](https://book.douban.com/subject/30441528/)
 * [《知识图谱》：赵军](https://book.douban.com/subject/30423376/)
 ## 3.2 计算机视觉
+**图书：**<br/>
 * [《卷积神经网络与计算机视觉》](https://book.douban.com/subject/33416217/)
+
 ## 3.3 智能语音
 **视频：**<br/>
 * [《Deep Learning for Human Language Processing (2020,Spring)》：李宏毅](http://speech.ee.ntu.edu.tw/~tlkagk/courses_DLHLP20.html)
