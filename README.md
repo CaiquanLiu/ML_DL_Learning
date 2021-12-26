@@ -82,9 +82,11 @@
 * [《斯坦福CS224n》：Chris Manning &amp; Richard Socher](https://github.com/CaiquanLiu/ML_DL_Learning/blob/master/%E6%96%AF%E5%9D%A6%E7%A6%8FCS224n-2017.md)
 * [《NaturalLanguageProcessing-经典》：Dan Jurafsky, Christopher Manning](https://github.com/CaiquanLiu/ML_DL_Learning/blob/master/NaturalLanguageProcessing-%E7%BB%8F%E5%85%B8.md)
 
-## 3.2 计算机视觉
+## 3.2 计算机视觉/图形学/SLAM/重建/计算摄影
 **图书：**<br/>
 * [《卷积神经网络与计算机视觉》](https://book.douban.com/subject/33416217/)
+* [《视觉SLAM十四讲：从理论到实践（第2版）》：高翔/张涛/等](https://book.douban.com/subject/34782244/)
+* [《计算机视觉中的多视图几何（原书第2版）》： 【澳】理查德·哈特利（Richard Hartley）【英】安德鲁](https://book.douban.com/subject/34907523/)
 
 **视频：**<br/>
 * []()
@@ -109,9 +111,7 @@
 
 ## 3.5 无人车/机器人
 **图书：**<br/>
-* [《视觉SLAM十四讲：从理论到实践（第2版）》：高翔/张涛/等](https://book.douban.com/subject/34782244/)
 * [《第一本无人驾驶技术书（第2版）》：刘少山等](https://book.douban.com/subject/34825134/)
-* [《计算机视觉中的多视图几何（原书第2版）》： 【澳】理查德·哈特利（Richard Hartley）【英】安德鲁](https://book.douban.com/subject/34907523/)
 
 **视频：**<br/>
 * []()
