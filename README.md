@@ -89,7 +89,8 @@
 * [《计算机视觉中的多视图几何（原书第2版）》： 【澳】理查德·哈特利（Richard Hartley）【英】安德鲁](https://book.douban.com/subject/34907523/)
 
 **视频：**<br/>
-* []()
+* [《视觉SLAM基础（概述）》：高翔](https://github.com/CaiquanLiu/ML_DL_Learning/blob/master/%E8%A7%86%E8%A7%89SLAM%E5%9F%BA%E7%A1%80%E6%A6%82%E8%BF%B0-%E9%AB%98%E7%BF%94.md)
+* [《视觉SLAM十四讲》：高翔]（https://github.com/CaiquanLiu/ML_DL_Learning/blob/master/%E8%A7%86%E8%A7%89SLAM%E5%8D%81%E5%9B%9B%E8%AE%B2-%E9%AB%98%E7%BF%94.md）
 
 ## 3.3 智能语音
 **图书：**<br/>
