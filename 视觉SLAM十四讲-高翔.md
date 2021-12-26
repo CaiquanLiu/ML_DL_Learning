@@ -1,7 +1,7 @@
-**视频地址**
+**视频地址**<br>
 https://www.bilibili.com/video/BV16t411g7FR?p=1
 
-**课程目录**
+**课程目录**<br/>
 * 《P1 视觉SLAM十四讲ch1~2》
 * 《P2 视觉SLAM十四讲ch3》
 * 《P3 视觉SLAM十四讲ch4》
