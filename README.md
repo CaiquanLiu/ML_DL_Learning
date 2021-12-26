@@ -90,7 +90,7 @@
 
 **视频：**<br/>
 * [《视觉SLAM基础（概述）》：高翔](https://github.com/CaiquanLiu/ML_DL_Learning/blob/master/%E8%A7%86%E8%A7%89SLAM%E5%9F%BA%E7%A1%80%E6%A6%82%E8%BF%B0-%E9%AB%98%E7%BF%94.md)
-* [《视觉SLAM十四讲》：高翔]（https://github.com/CaiquanLiu/ML_DL_Learning/blob/master/%E8%A7%86%E8%A7%89SLAM%E5%8D%81%E5%9B%9B%E8%AE%B2-%E9%AB%98%E7%BF%94.md）
+* [《视觉SLAM十四讲》：高翔](https://github.com/CaiquanLiu/ML_DL_Learning/blob/master/%E8%A7%86%E8%A7%89SLAM%E5%8D%81%E5%9B%9B%E8%AE%B2-%E9%AB%98%E7%BF%94.md)
 
 ## 3.3 智能语音
 **图书：**<br/>
