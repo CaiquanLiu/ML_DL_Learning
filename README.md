@@ -138,14 +138,7 @@
 **视频：**<br/>
 * [《编译原理》：中科大](https://github.com/CaiquanLiu/ML_DL_Learning/blob/master/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86-%E4%B8%AD%E7%A7%91%E5%A4%A7.md)
 
-# 5 行业价值
-**图书：**<br/>
-* []()
-
-**视频：**<br/>
-* []()
-
-# 6 其他
+# 5 其他
 **图书：**<br/>
 * [《人工智能简史》：尼克](https://book.douban.com/subject/27193496/)
 * [《科学之路》：[法] 杨立昆](https://book.douban.com/subject/35560368/)
