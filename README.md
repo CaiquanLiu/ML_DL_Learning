@@ -109,7 +109,14 @@
 **视频：**<br/>
 * [《Deep Learning for Human Language Processing (2020,Spring)》：李宏毅](http://speech.ee.ntu.edu.tw/~tlkagk/courses_DLHLP20.html)
 
-## 3.4 推荐/广告/搜索
+## 3.4 多模态
+**图书：**<br/>
+* []()
+
+**视频：**<br/>
+* [《多模态机器学习2020》：CMU](https://github.com/CaiquanLiu/ML_DL_Learning/blob/master/%E5%A4%9A%E6%A8%A1%E6%80%81%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A02020.md)
+
+## 3.5 推荐/广告/搜索
 **图书：**<br/>
 * [《这就是搜索引擎》：张俊林](https://book.douban.com/subject/7006719/)
 * [《推荐系统实践》：项亮](https://book.douban.com/subject/10769749/)
@@ -120,14 +127,14 @@
 **视频：**<br/>
 * []()
 
-## 3.5 无人车/机器人
+## 3.6 无人车/机器人
 **图书：**<br/>
 * [《第一本无人驾驶技术书（第2版）》：刘少山等](https://book.douban.com/subject/34825134/)
 
 **视频：**<br/>
 * []()
 
-## 3.6 元宇宙（AR、VR、区块链）
+## 3.7 元宇宙（AR、VR、区块链）
 **图书：**<br/>
 * [《元宇宙》：赵国栋 易欢欢]()
 * [《元宇宙通证》：赵国栋 易欢欢]()
