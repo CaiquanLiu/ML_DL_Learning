@@ -86,7 +86,7 @@
 
 ## 3.2 计算机视觉/图形学/SLAM/重建/计算摄影
 **图书：**<br/>
-* [《卷积神经网络与计算机视觉》](https://book.douban.com/subject/33416217/)
+* [《卷积神经网络与计算机视觉》：Salman Khan](https://book.douban.com/subject/33416217/)
 * [《视觉SLAM十四讲：从理论到实践（第2版）》：高翔/张涛/等](https://book.douban.com/subject/34782244/)
 * [《计算机视觉中的多视图几何（原书第2版）》： 【澳】理查德·哈特利（Richard Hartley）【英】安德鲁](https://book.douban.com/subject/34907523/)
 * [《计算摄影技术》：张茂军 刘煜]()
@@ -114,7 +114,7 @@
 * [《推荐系统实践》：项亮](https://book.douban.com/subject/10769749/)
 * [《深度学习推荐系统》：王喆](https://book.douban.com/subject/35013197/)
 * [《计算广告 第2版》：刘鹏/王超](https://book.douban.com/subject/34804492/)
-* [《内容算法》](https://book.douban.com/subject/30199061/)
+* [《内容算法》：闫泽华](https://book.douban.com/subject/30199061/)
 
 **视频：**<br/>
 * []()
