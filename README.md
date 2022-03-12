@@ -92,8 +92,8 @@
 **视频：**<br/>
 * [《计算机视觉（本科)》：鲁鹏](https://github.com/CaiquanLiu/ML_DL_Learning/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%EF%BC%88%E6%9C%AC%E7%A7%91%EF%BC%89.md)
 * [《计算机视觉与深度学习》：鲁鹏](https://github.com/CaiquanLiu/ML_DL_Learning/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E4%B8%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-%E9%B2%81%E9%B9%8F.md)
-* [《计算机视觉之三维重建篇(精简版）》：鲁鹏](https://github.com/CaiquanLiu/ML_DL_Learning/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E4%B9%8B%E4%B8%89%E7%BB%B4%E9%87%8D%E5%BB%BA%E7%AF%87(%E7%B2%BE%E7%AE%80%E7%89%88%EF%BC%89-%E9%B2%81%E9%B9%8F.md)
-* [《计算机视觉之三维重建（深入浅出SfM与SLAM核心算法）》：鲁鹏](https://github.com/CaiquanLiu/ML_DL_Learning/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E4%B9%8B%E4%B8%89%E7%BB%B4%E9%87%8D%E5%BB%BA%E7%AF%87(%E7%B2%BE%E7%AE%80%E7%89%88%EF%BC%89-%E9%B2%81%E9%B9%8F.md)
+* [《计算机视觉之三维重建篇(精简版）》：鲁鹏]()
+* [《计算机视觉之三维重建（深入浅出SfM与SLAM核心算法）》：鲁鹏]()
 * [《视觉SLAM基础（概述）》：高翔](https://github.com/CaiquanLiu/ML_DL_Learning/blob/master/%E8%A7%86%E8%A7%89SLAM%E5%9F%BA%E7%A1%80%E6%A6%82%E8%BF%B0-%E9%AB%98%E7%BF%94.md)
 * [《视觉SLAM十四讲》：高翔](https://github.com/CaiquanLiu/ML_DL_Learning/blob/master/%E8%A7%86%E8%A7%89SLAM%E5%8D%81%E5%9B%9B%E8%AE%B2-%E9%AB%98%E7%BF%94.md)
 * [《现代计算机图形学入门》：闫令琪](https://github.com/CaiquanLiu/ML_DL_Learning/blob/master/%E7%8E%B0%E4%BB%A3%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6%E5%85%A5%E9%97%A8-%E9%97%AB%E4%BB%A4%E7%90%AA.md)
